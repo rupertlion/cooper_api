@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  root controller: :api, action: :index
   mount_devise_token_auth_for 'User', at: 'auth'
   namespace :api do
     namespace :v0 do
