@@ -1,24 +1,17 @@
-# README
+## **Cooper Challenge - API**
+### *Week 7 Lab*
+-------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Built With
+-------
 
-Things you may want to cover:
+* [Rails](https://rubyonrails.org/) - Framework
+* [Ruby](https://www.ruby-lang.org/en/) - Programming language
 
-* Ruby version
+### **Overview**
+-------
+The purpose of this challenge is to create the back end API service (for performance data storage) for a Cooper calculator.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### **Author**
+-------
+* **Rupert Lion** 
